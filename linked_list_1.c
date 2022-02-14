@@ -9,7 +9,7 @@ typedef    struct   sinh_vien
 }p_sv;
 p_sv    *p_dau, *p_cuoi, *p;
 void   tao_ds(){
-    char ht[20],select;     
+    char select;     
     int stt = 0; 
     float  x;
     printf("Nhap danh sachsinh vien\n");
