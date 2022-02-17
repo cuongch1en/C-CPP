@@ -97,10 +97,4 @@ void xoa(){
     }
 }
 void main(){
-    tao_ds();
-    hien_ds();
-    xoa();
-    hien_ds();
-    chen();
-    hien_ds();
 }
