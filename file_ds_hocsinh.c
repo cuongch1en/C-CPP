@@ -65,8 +65,6 @@ void sua_tep()
 {
    int i;
    f = fopen("dssv.sl","r+b");
-   fseek(f,0,SEEK_END);
-   n = ftell(f)/sizeof(sv);
    do 
    {
       printf("\nSua sinh vien thu:");
