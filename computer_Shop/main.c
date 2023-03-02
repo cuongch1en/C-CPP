@@ -1,6 +1,4 @@
-//
-// Created by VanPhuong Pham on 12/21/2022.
-//
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "store.c"
