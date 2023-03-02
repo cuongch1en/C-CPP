@@ -1,6 +1,3 @@
-//
-// Created by VanPhuong Pham on 12/21/2022.
-//
 #include <stdio.h>
 #include <string.h>
 #include "computer.c"
